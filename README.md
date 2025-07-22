@@ -116,6 +116,12 @@ Adapt `path:` if your dataset lives elsewhere.
 
 ---
 
+## ⚠️ Disclaimer
+
+This repository is provided **as‑is for research and educational purposes**. The model has **not been evaluated or cleared by the U.S. Food & Drug Administration (FDA)** and is **NOT intended for clinical decision‑making or patient care**. Use at your own risk.
+
+---
+
 ## 📝 License
 
 - **Ultralytics YOLOv8 framework:** AGPL‑3.0 – see [https://github.com/ultralytics/ultralytics/blob/main/LICENSE](https://github.com/ultralytics/ultralytics/blob/main/LICENSE)
