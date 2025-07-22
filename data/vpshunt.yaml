@@ -1,0 +1,17 @@
+path: yolo # adapt to your directory
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Codman Certas
+  1: Medtronic Strata
+  2: Codman Hakim
+  3: Medtronic Delta
+  4: Aesculap proGAV
+  5: Sophysa Polaris
+  6: Sophysa Sophy
+  7: Aesculap proGAV 2
+  8: Integra DP
+  9: Spitz Holter
+  10: Codman Fixed
