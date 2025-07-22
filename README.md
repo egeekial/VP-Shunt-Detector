@@ -68,14 +68,14 @@ gr.Interface(fn=predict,
 PY
 ```
 
-Or open `` and run the cells.
+Or open `notebook/inference_gradio.ipynb` and run the cells.
 
 ---
 
 ## 🔧 Fine‑tuning / Adding Classes
 
 1. **Prepare your dataset** in YOLO format (`images/` + `.txt` labels).
-2. **Update **`` or create a new YAML including all classes (existing + new).
+2. **Update ** `data/vpshunt.yaml` or create a new YAML including all classes (existing + new).
 3. **Train** starting from these weights:
 
 ```bash
